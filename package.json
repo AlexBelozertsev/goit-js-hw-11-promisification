@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlexBelozertsev/goit-js-hw-11-timer"
+    "url": "git+https://github.com/AlexBelozertsev/goit-js-hw-11-promisification"
   },
   "keywords": ["JavaScript", "setInterval", "Timer", "Data"],
   "author": "Alex Belozertsev",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AlexBelozertsev/goit-js-hw-11-timer/issues"
+    "url": "https://github.com/AlexBelozertsev/goit-js-hw-11-promisification/issues"
   },
-  "homepage": "https://github.com/AlexBelozertsev/goit-js-hw-11-timer",
+  "homepage": "https://github.com/AlexBelozertsev/goit-js-hw-11-promisification",
   "devDependencies": {
     "@babel/core": "^7.12.9",
     "@babel/plugin-proposal-class-properties": "^7.12.1",
